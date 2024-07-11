@@ -1,3 +1,21 @@
+Roles and Responsibilities:
+	Involving in software development tasks like design, coding and unit testing.
+	Participating in sprint planning, daily scrum, and sprint retrospection meeting.
+	Conducting and participating in code review calls to ensure code quality.
+	Participating design review calls to demonstrate the proposed design.
+	Build preparation and release notes preparation.
+	Demonstration of user stories and deliverables to VnV.
+	Providing technical guidance and mentoring junior developers.
+	TFS maintenance like user story, task creation, updation etc. 
+
+
+Scrum Meetings:
+	Sprint Planning: where the team defines the goals and tasks for the sprint. product backlog to sprint backlog
+	Daily Standup: where the team shares progress and challenges
+	Sprint Review: where the team demonstrates the product increment and gets feedback
+	Sprint Retrospective: where the team reflects on the process and identifies improvements
+
+
 Dictionary
 	https://docwiki.embarcadero.com/Libraries/Athens/en/System.Generics.Collections.TDictionary
 	https://docwiki.embarcadero.com/Libraries/Athens/en/System.Generics.Collections.TObjectDictionary
